@@ -1,2 +1,3 @@
-# girlfriend_bot
-girlfriend_bot
+# Slack_PingPong
+슬랙 <-> 핑퐁빌더 예제입니다.<br>
+삭막한 메신저에 추가하면 인기만점 
