@@ -6,10 +6,10 @@
  * 
  */
 
-let express = require('express');
-let request = require('request');
-let bodyParser = require('body-parser'); //POST 방식 받을때 사용함
-let md5 = require('md5');
+const express = require('express');
+const request = require('request');
+const bodyParser = require('body-parser'); //POST 방식 받을때 사용함
+const md5 = require('md5');
 
 require('dotenv').config();
 
